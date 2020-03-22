@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12f7c0a0-01a3-4138-9cdb-a7f32eea6831" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DeneyselJavaDersleri" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGrOCnu8TNSgTcgnJcWvI4cgAY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.J6_Looping">
+    <configuration name="J3_If_Statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="J3_If_Statements" />
+      <module name="DeneyselJavaDersleri" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="J4_Switch_Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="J4_Switch_Statement" />
+      <module name="DeneyselJavaDersleri" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="J5_String_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="J5_String_Methods" />
+      <module name="DeneyselJavaDersleri" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="J6_Looping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="J6_Looping" />
+      <module name="DeneyselJavaDersleri" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="median" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="median" />
+      <module name="DeneyselJavaDersleri" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.J6_Looping" />
+        <item itemvalue="Application.J5_String_Methods" />
+        <item itemvalue="Application.J3_If_Statements" />
+        <item itemvalue="Application.J4_Switch_Statement" />
+        <item itemvalue="Application.median" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12f7c0a0-01a3-4138-9cdb-a7f32eea6831" name="Default Changelist" comment="" />
+      <created>1584476238181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584476238181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Auto_Import" timestamp="1584579786688">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Auto_Import/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@0.0.1536.824" timestamp="1584579786688" />
+    <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1584852296875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@0.0.1536.824" timestamp="1584852296875" />
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom" timestamp="1584872894855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@0.0.1536.824" timestamp="1584872894855" />
+    <state width="1237" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@1920.0.1280.680" timestamp="1584856956309" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824/-1920.12.1536.824@0.0.1536.824" timestamp="1584518124892" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824/-1920.12.1536.824@1920.0.1536.824" timestamp="1584556690062" />
+    <state width="1493" height="157" key="GridCell.Tab.0.center" timestamp="1584872894855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@0.0.1536.824" timestamp="1584872894855" />
+    <state width="1237" height="157" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@1920.0.1280.680" timestamp="1584856956308" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824/-1920.12.1536.824@0.0.1536.824" timestamp="1584518124891" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824/-1920.12.1536.824@1920.0.1536.824" timestamp="1584556690062" />
+    <state width="1493" height="157" key="GridCell.Tab.0.left" timestamp="1584872894855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@0.0.1536.824" timestamp="1584872894855" />
+    <state width="1237" height="157" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@1920.0.1280.680" timestamp="1584856956308" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824/-1920.12.1536.824@0.0.1536.824" timestamp="1584518124891" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824/-1920.12.1536.824@1920.0.1536.824" timestamp="1584556690062" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right" timestamp="1584872894855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="157" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@0.0.1536.824" timestamp="1584872894855" />
+    <state width="1237" height="157" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@1920.0.1280.680" timestamp="1584856956308" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824/-1920.12.1536.824@0.0.1536.824" timestamp="1584518124891" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824/-1920.12.1536.824@1920.0.1536.824" timestamp="1584556690062" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1584476243850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1536.824/-1920.12.1536.824@0.0.1536.824" timestamp="1584476243850" />
+    <state width="602" height="340" key="javadoc.popup" timestamp="1584579844610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="602" height="340" key="javadoc.popup/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@0.0.1536.824" timestamp="1584579844610" />
+    <state x="2223" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584811308203">
+      <screen x="1920" y="0" width="1280" height="680" />
+    </state>
+    <state x="2223" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1280.680/-1920.12.1536.824@1920.0.1280.680" timestamp="1584811308203" />
+  </component>
+</project>
