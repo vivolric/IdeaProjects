@@ -50,6 +50,12 @@ public class J5_String_Methods
         System.out.println(a.indexOf("v")); // particular character within a given string but 0,1,2,3,4 diye gidiyo
         System.out.println(a.indexOf("e")); // yani ilk harfi koyarsan 0. indexe denk geliyo ciktisi
         // ayni harften iki tane varsa napiyo he bilmiyom
+        
+        
+        String str9 = "Eve devde geldim";
+
+        System.out.println(str9.indexOf("v"));       // 1
+        System.out.println(str9.indexOf("vde"));     // 6
 
         System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 
