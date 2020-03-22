@@ -46,6 +46,7 @@ public class J6_Looping
             e+=1;
         }
 
+
         // N E KADAR OLAN SAYILARIN TOPLAMININ HESABI
         System.out.println("Faktoriyel Hesaplamaya Hosgeldiniz \n lutfen faktoriyelini hesaplamak istediginiz sayiyi girin ");
         Scanner input2 = new Scanner(System.in);
